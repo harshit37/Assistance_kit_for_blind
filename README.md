@@ -1,3 +1,3 @@
 # Assistance_kit_for_blind
 
-Course Project tinkering lab
+An CV based blind assistance project.
